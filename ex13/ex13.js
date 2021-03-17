@@ -1,0 +1,1 @@
+let visit = prompt('Qual o seu nome visitante: ')
